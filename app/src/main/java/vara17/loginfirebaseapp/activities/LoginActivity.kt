@@ -1,7 +1,8 @@
-package vara17.loginfirebaseapp
+package vara17.loginfirebaseapp.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import vara17.loginfirebaseapp.R
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
